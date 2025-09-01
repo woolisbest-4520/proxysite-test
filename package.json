@@ -1,0 +1,16 @@
+{
+  "name": "proxy-site",
+  "version": "1.0.0",
+  "description": "A simple proxy server built with Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-proxy-middleware": "^2.0.0"
+  },
+  "devDependencies": {},
+  "author": "Your Name",
+  "license": "MIT"
+}
